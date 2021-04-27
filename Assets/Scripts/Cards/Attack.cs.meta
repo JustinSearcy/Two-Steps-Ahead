@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7bc863faf751e2c4ebd41933410fefba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectParticles: {instanceID: 0}
+  - cardHighlight: {fileID: 8300000, guid: 6f64f19bcf3da7348aa66635b405f4ec, type: 3}
+  - cardSelect: {fileID: 8300000, guid: 6a536f7cc19a5dc4ca30e10d4c9bcc7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
